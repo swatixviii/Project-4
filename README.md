@@ -15,7 +15,8 @@ Clear Functionality: Clears the current input or result.
 Error Handling: Displays "Error" for invalid expressions.
 
 ## User Interface
-### Entry Field: Displays the current input and results.
+### Entry Field: 
+Displays the current input and results.
 
 ### Buttons:
 Number Buttons (0-9): For numerical input.
