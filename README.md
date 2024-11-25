@@ -5,9 +5,13 @@ This project is a basic calculator application built using Python's tkinter libr
 
 ## Features
 Basic Arithmetic Operations: Supports addition, subtraction, multiplication, and division.
+
 Dynamic Input: Buttons to input numbers and operators.
+
 Expression Evaluation: Evaluates mathematical expressions entered by the user.
+
 Clear Functionality: Clears the current input or result.
+
 Error Handling: Displays "Error" for invalid expressions.
 
 ## User Interface
